@@ -25,6 +25,8 @@ that's why (3) numm >= 0 is true (!) null > 0 is false */
 // console.log(undefined <= 0);
 // console.log(undefined >= 0);
 
+// above comparision are avoided
+
 // Strict Check "==="
 
 console.log("2" === 2)
