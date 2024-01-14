@@ -1,3 +1,7 @@
 
-// console.log("2" > 1);
-// console.log("02" > 1);
+let myYoutubeName = "lakshyaBorasi"
+let anotherName =  myYoutubeName
+anotherName =  "ChaiaurCode";
+
+console.log(myYoutubeName);
+console.log(anotherName);

@@ -33,3 +33,23 @@ const myFunction = function () {
     console.log("hello World!");
 }
 
+// ++++++++++++++++++++++++++++++++++++++++++++++++ Memory +++++++++++++++++++++
+
+// Stack(Primitive) , Heap (Non Primitive)
+
+let myYoutubeName = "lakshyaBorasi"
+let anotherName =  myYoutubeName
+anotherName =  "ChaiaurCode";
+
+console.log(myYoutubeName);
+console.log(anotherName);
+
+let user = {
+    email : "lakshya@google.com",
+    upi : "lakshya@oksbi"
+}
+
+let user2 = user;
+user2.email = "hitesh@google.com"
+
+console.log(user.email);
