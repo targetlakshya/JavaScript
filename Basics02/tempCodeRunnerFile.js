@@ -1,2 +1,1 @@
-
-//  Arrays Methods
+Array.isArray("Hitesh")
