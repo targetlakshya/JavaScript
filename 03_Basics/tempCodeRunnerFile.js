@@ -1,1 +1,3 @@
-addTwo(2,3)
+function chai() {
+    console.log('DB connceted');
+}
