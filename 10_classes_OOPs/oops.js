@@ -29,10 +29,12 @@ function User(username , loginCount,  isLoggedIn) {
 
 const userOne = User("Lakshya", "2", true)
 const userTwo = new User("Chai Aur Code", 22, true)
-console.log(userOne);
-console.log(userTwo)
+// console.log(userOne);
+// console.log(userTwo)
 
 // "new" keyword is the constructor in JS, "this" can create a new empty of an object
 // "new" create an call and constructor function, it pack all the arguments and give it to user
 // now "this" keyword can store all the arguments
 // all the objects display to user
+
+
