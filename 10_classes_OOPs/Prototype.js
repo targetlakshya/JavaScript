@@ -65,3 +65,4 @@ String.prototype.trueLength = function () {
 
 anotherUsername.trueLength()
 myName.trueLength()
+
